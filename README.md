@@ -1,4 +1,4 @@
-<div style="font-size: xxx-large;color:blue;">
+<div style='font-size: xxx-large;'>
   ELCaraXD
 </div>
 
