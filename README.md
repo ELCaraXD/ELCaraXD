@@ -1,7 +1,2 @@
-~~~html
-<div style='color: blue;'>
-  ELCaraXD
-</div>
-~~~
-
+<h1>ELCaraXD</h1>
 ***Diego Hendrix***
